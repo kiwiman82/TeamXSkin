@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="skin.teamXmod"
+  version="1.0.0"
+  name="TeamXConfluenceMod"
+  provider-name="Kiwi_Man82">
+  <requires>
+    <import addon="xbmc.gui" version="5.10.0"/>
+  </requires>
+  <extension
+    point="xbmc.gui.skin"
+    debugging="faulse"
+    effectslowdown="1.0">
+    <res width="1280" height="720" aspect="16:9" default="true" folder="720p" />
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_AU">TeamXKodi skin by Kiwi_Man82</summary>
+    <summary lang="en_GB">TeamXKodi skin by Kiwi_Man82</summary>
+    <summary lang="en_NZ">TeamXKodi skin by Kiwi_Man82</summary>
+    <summary lang="en_US">TeamXKodi skin by Kiwi_Man82</summary>
+    <description lang="en_AU">TeamXKodi have modified and themed the Confluence skin to thier taste.  Enjoy and please let us know of any problems you may have or suggestions of things you'd like to see changed/modified.  Kiwi_Man82 - TeamXKodi.</description>
+    <description lang="en_GB">TeamXKodi have modified and themed the Confluence skin to thier taste.  Enjoy and please let us know of any problems you may have or suggestions of things you'd like to see changed/modified.  Kiwi_Man82 - TeamXKodi.</description>
+    <description lang="en_NZ">TeamXKodi have modified and themed the Confluence skin to thier taste.  Enjoy and please let us know of any problems you may have or suggestions of things you'd like to see changed/modified.  Kiwi_Man82 - TeamXKodi.</description>
+    <description lang="en_US">TeamXKodi have modified and themed the Confluence skin to thier taste.  Enjoy and please let us know of any problems you may have or suggestions of things you'd like to see changed/modified.  Kiwi_Man82 - TeamXKodi.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
