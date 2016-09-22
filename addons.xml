@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="skin.teamXmod" version="1.0.0" name="TeamXConfluenceMod" provider-name="Kiwi_Man82">
+  <requires>
+    <import addon="xbmc.gui" version="5.10.0"/>
+  </requires>
+  <extension point="xbmc.gui.skin">
+  </extension>   
+ <extension point="xbmc.addon.metadata">
+    <summary lang="en">TeamXKodi Themed Skin</summary>
+    <description lang="en">Here is our first attempt at a skin.  It is based on Confulence 2.8.8</description>
+    <disclaimer lang="en"></disclaimer>
+    <platform>all</platform>
+    <forum>n/a</forum>
+    <website>n/a</website>
+  </extension>
+</addon>
+</addons>
